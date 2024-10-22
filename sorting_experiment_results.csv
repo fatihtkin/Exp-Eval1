@@ -1,0 +1,66 @@
+First Run
+Array Size,Sorting Algorithm,Execution Time (ns)
+100,QuickSortGPT,285100
+100,SelectionSortGPT,423300
+100,BubbleSortUntilNoChange,767101
+100,BubbleSortWhileNeeded,422300
+1000,QuickSortGPT,919801
+1000,SelectionSortGPT,8707199
+1000,BubbleSortUntilNoChange,44387700
+1000,BubbleSortWhileNeeded,13446700
+5000,QuickSortGPT,3820701
+5000,SelectionSortGPT,139157800
+5000,BubbleSortUntilNoChange,112078500
+5000,BubbleSortWhileNeeded,105354500
+10000,QuickSortGPT,14926500
+10000,SelectionSortGPT,130074599
+10000,BubbleSortUntilNoChange,461042000
+10000,BubbleSortWhileNeeded,357812400
+20000,QuickSortGPT,4335900
+20000,SelectionSortGPT,556819300
+20000,BubbleSortUntilNoChange,2376840099
+20000,BubbleSortWhileNeeded,1799593901
+Second Run
+Array Size,Sorting Algorithm,Execution Time (ns)
+100,QuickSortGPT,285400
+100,SelectionSortGPT,380800
+100,BubbleSortUntilNoChange,705800
+100,BubbleSortWhileNeeded,441300
+1000,QuickSortGPT,978500
+1000,SelectionSortGPT,9554000
+1000,BubbleSortUntilNoChange,35439600
+1000,BubbleSortWhileNeeded,15324600
+5000,QuickSortGPT,3547101
+5000,SelectionSortGPT,91221001
+5000,BubbleSortUntilNoChange,116028400
+5000,BubbleSortWhileNeeded,103415600
+10000,QuickSortGPT,14847900
+10000,SelectionSortGPT,126185299
+10000,BubbleSortUntilNoChange,498158900
+10000,BubbleSortWhileNeeded,324217000
+20000,QuickSortGPT,5161400
+20000,SelectionSortGPT,557232999
+20000,BubbleSortUntilNoChange,2925297200
+20000,BubbleSortWhileNeeded,2405998700
+Third Run
+Array Size,Sorting Algorithm,Execution Time (ns)
+100,QuickSortGPT,250200
+100,SelectionSortGPT,520200
+100,BubbleSortUntilNoChange,754199
+100,BubbleSortWhileNeeded,397500
+1000,QuickSortGPT,964699
+1000,SelectionSortGPT,8852399
+1000,BubbleSortUntilNoChange,24382101
+1000,BubbleSortWhileNeeded,13749400
+5000,QuickSortGPT,4030299
+5000,SelectionSortGPT,82741000
+5000,BubbleSortUntilNoChange,141768500
+5000,BubbleSortWhileNeeded,104220000
+10000,QuickSortGPT,12010799
+10000,SelectionSortGPT,134732400
+10000,BubbleSortUntilNoChange,508294100
+10000,BubbleSortWhileNeeded,370528200
+20000,QuickSortGPT,8112599
+20000,SelectionSortGPT,817138999
+20000,BubbleSortUntilNoChange,2123655800
+20000,BubbleSortWhileNeeded,1814810600
