@@ -1,0 +1,18 @@
+First Run (Sorted Input)
+Array Size,Sorting Algorithm,Execution Time (ns)
+100,QuickSortGPT,896500
+100,SelectionSortGPT,341400
+100,BubbleSortUntilNoChange,21000
+100,BubbleSortWhileNeeded,20100
+1000,QuickSortGPT,27917200
+1000,SelectionSortGPT,9254300
+1000,BubbleSortUntilNoChange,65100
+1000,BubbleSortWhileNeeded,77900
+5000,QuickSortGPT,69690700
+5000,SelectionSortGPT,22133800
+5000,BubbleSortUntilNoChange,303200
+5000,BubbleSortWhileNeeded,303500
+10000,QuickSortGPT,337563600
+10000,SelectionSortGPT,60348700
+10000,BubbleSortUntilNoChange,623900
+10000,BubbleSortWhileNeeded,428900
