@@ -1,4 +1,5 @@
-First Run
+#Randomly generated array
+First Run 
 Array Size,Sorting Algorithm,Execution Time (ns)
 100,QuickSortGPT,285100
 100,SelectionSortGPT,423300
