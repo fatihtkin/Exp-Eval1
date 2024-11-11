@@ -20,7 +20,7 @@ public class SortingExperiment {
                 new BubbleSortUntilNoChange<>(),
                 new BubbleSortWhileNeeded<>()
         };
-
+    
         // Names corresponding to each sorting algorithm, for output purposes
         String[] sorterNames = {"QuickSortGPT", "SelectionSortGPT", "BubbleSortUntilNoChange", "BubbleSortWhileNeeded"};
 
